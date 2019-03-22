@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Статистика поста</string>
+    <string name="title_home">Статистика поста</string>
+    <string name="title_house">Домашняя</string>
+    <string name="title_wallet">Доллар</string>
+    <string name="title_logo_grad">Лого</string>
+    <string name="title_heart">Сердце</string>
+    <string name="title_profile">Профиль</string>
+
+    <string name="title_views">Просмотры</string>
+    <string name="title_likes">Лайки</string>
+    <string name="title_commentators">Комментаторы</string>
+    <string name="title_mentions">Отметки</string>
+    <string name="title_reposters">Репосты</string>
+    <string name="title_bookmarks">Закладки</string>
+</resources>

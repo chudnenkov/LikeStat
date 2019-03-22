@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_hause"
+        android:icon="@drawable/ic_house_pressed_white"
+        android:title="@string/title_house" />
+
+    <item
+        android:id="@+id/navigation_wallet"
+        android:icon="@drawable/ic_wallet_pressed_white"
+        android:title="@string/title_wallet" />
+
+    <item
+        android:id="@+id/navigation_grad"
+        android:icon="@drawable/ic_logo_grad"
+        android:title="@string/title_logo_grad" />
+    <item
+        android:id="@+id/navigation_heart"
+        android:icon="@drawable/ic_heart_grad"
+        android:title="@string/title_heart" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_profile_pressed_white"
+        android:title="@string/title_profile" />
+
+
+</menu>
